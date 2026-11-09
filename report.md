@@ -4,9 +4,9 @@
 
 How to create a reproducible mask and count nuclei from an image using a Python script. Research what Python packages are used for these tasks in professional environments. After that, read the package documentations and get accommodated with the packages and write a couple of test scripts to get some results.
 
-## Method 
+## Method
 
-Using scikit-image package on Python, and the Jupyter notebooks I can iterate through different versions of the code relatively quickly. I decided to write the code in Visual Studio Code and use Ruff for checking the file for any issues. GitHub repository is created to backup the work (https://github.com/jtnorr/BiMa-segment-count-nuclei-demo).
+Using scikit-image package on Python, and the Jupyter notebooks I can iterate through different versions of the code relatively quickly. I decided to write the code in Visual Studio Code and use Ruff for checking the file for any issues. GitHub repository is created to backup the work (<https://github.com/jtnorr/BiMa-segment-count-nuclei-demo>).
 
 ## Result
 
